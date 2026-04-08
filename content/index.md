@@ -2,4 +2,4 @@
 title: Home
 ---
 
-Welcome to my notes.
+Welcome to my notes about my Homelab.
